@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [[https://ssc0ttie.github.io/scott.github.io/](https://ssc0ttie.github.io/scott.github.io/)](https://ssc0ttie.github.io/webport/)
+- 👨‍💻 All of my projects are available at [(https://ssc0ttie.github.io/webport/)]
 
 - 📫 How to reach me **ksmcawile@gmail.com**
 
